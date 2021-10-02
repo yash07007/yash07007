@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Yash Solanki</h1>
-<h3 align="center">A passionate computer science graduate student at University of Southern California</h3>
+<h3 align="center">A passionate Computer Science graduate student at University of Southern California</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yash07007&color=blueviolet&style=flat">
@@ -47,12 +47,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
 <a href="https://github.com/yash07007">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yash07007&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yash07007&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
