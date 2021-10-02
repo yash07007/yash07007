@@ -1,14 +1,3 @@
-- 👋 Hi, I’m Yash Solanki a Computer Engineer pursuing MS in CS (Computer Networks) at University of Southern California.
-- 👀 I’m interested in Security and Networks related Projetcs and Research.
-- 🌱 I’m currently learning more about Networks, Operating Systems and Algorithms.
-- 💞️ I’m looking to collaborate on various Hackathons and Conding Contests.
-- 📫 Reach me at ysolanki@usc.edu
-
-<!---
-yash07007/yash07007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm Yash Solanki</h1>
 <h3 align="center">A passionate computer science graduate student at University of Southern California</h3>
 	
@@ -26,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **Blockchain** & **CSS**
 
-- 📫 How to reach me **vivek.p9737@gmail.com**
+- 📫 How to reach me **ysolanki@usc.edu**
 
 
 	
@@ -57,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/vivek9patel">
+<a href="https://github.com/yash07007">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yash07007&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yash07007&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -67,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>
 <!-- <a href="https://www.yash070007.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/yash07007"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:yashsolanki777@gmail.com"><img src="https://img.shields.io/badge/-yashsolanki777-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yash07007"><img src="https://img.shields.io/badge/-yash07007-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ysolanki@usc.edu"><img src="https://img.shields.io/badge/-ysolanki-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/yash07007"><img src="https://img.shields.io/badge/-@yash07007-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
