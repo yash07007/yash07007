@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, I'm Yash Solanki</h1>
+<h1 align="center">Hi 👋🏻, I'm Yash Solanki</h1>
 <h3 align="center">A passionate computer science graduate student at University of Southern California</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yash07007&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning more about **Algorithms, Networks, Development, etc.**
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
-- 👀 I’m interested in Security and Networks related Projetcs and Research.
+🎓 &nbsp;I'm currently studying Computer Science (Computer Networks) at the University of Southern California.
 
-- 💞️ I’m looking to collaborate on various Hackathons, Projects and Conding Contests.
+🌱 &nbsp;I'm on track for learning more about **Algorithms, Networks, Development, etc.** 
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/yash07007?tab=repositories)
+🤝🏻 &nbsp;I’m looking to collaborate on various Hackathons, Projects and Conding Contests.
 
-- 💬 Ask me about **Blockchain** & **Networks**
+👨‍💻 &nbsp;All of my projects are available at [github](https://github.com/yash07007?tab=repositories) 
 
-- 📫 How to reach me **ysolanki@usc.edu**
+✉️ &nbsp;You can shoot me an email at ysolanki@usc.edu! I'll try to respond as soon as I can.
+
+📄 &nbsp;Please have a look at my [Résumé](https://www.github.com/yash07007) for more details about me. I'm open to feedback and suggestions!
 
 
 	
@@ -58,5 +60,7 @@
 <!-- <a href="https://www.yashsolanki.com"><img src="https://img.shields.io/badge/-yashsolanki.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://linkedin.com/in/yash07007"><img src="https://img.shields.io/badge/-Yash Solanki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ysolanki@usc.edu"><img src="https://img.shields.io/badge/-ysolanki@usc.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/yash07007"><img src="https://img.shields.io/badge/-@yash07007-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/yash07007"><img src="https://img.shields.io/badge/-@yash07007-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <!-- <a href="https://twitter.com/yash07007"><img src="https://img.shields.io/badge/-@yash07007-1877F2?style=flat&logo=Twitter&logoColor=white"/></a> -->
 </p>
