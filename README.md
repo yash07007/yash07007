@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/yash07007?tab=repositories)
 
-- 💬 Ask me about **Blockchain** & **CSS**
+- 💬 Ask me about **Blockchain** & **Networks**
 
 - 📫 How to reach me **ysolanki@usc.edu**
 
