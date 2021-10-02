@@ -9,18 +9,16 @@
 
 🎓 &nbsp;I'm currently studying Computer Science (Computer Networks) at the University of Southern California.
 
-🌱 &nbsp;I'm on track for learning more about **Algorithms, Networks, Development, etc.** 
+🌱 &nbsp;I'm on track for learning more about **Algorithms, Networks, Development, etc.**
 
 🤝🏻 &nbsp;I’m looking to collaborate on various Hackathons, Projects and Conding Contests.
 
-👨‍💻 &nbsp;All of my projects are available at [github](https://github.com/yash07007?tab=repositories) 
+👨‍💻 &nbsp;All of my projects are available at [github](https://github.com/yash07007?tab=repositories)
 
 ✉️ &nbsp;You can shoot me an email at ysolanki@usc.edu! I'll try to respond as soon as I can.
 
-📄 &nbsp;Please have a look at my [Résumé](https://www.github.com/yash07007) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](/docs/Yash_USC_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-
-	
 ### 🛠 &nbsp;Languages and Tools
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
