@@ -62,9 +62,10 @@
 
 <p>
 <!-- <a href="https://www.yashsolanki.com"><img src="https://img.shields.io/badge/-yashsolanki.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/yash07007"><img src="https://img.shields.io/badge/-Yash Solanki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ysolanki@usc.edu"><img src="https://img.shields.io/badge/-ysolanki@usc.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/yash07007"><img src="https://img.shields.io/badge/-@yash07007-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/yash07007"><img src="https://img.shields.io/badge/-@yash07007-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://leetcode.com/yash07007/"><img src="https://img.shields.io/badge/-@yash07007-000000?style=flat&logo=LeetCode&logoColor=#d16c06"/></a>
+<a href="https://linkedin.com/in/yash07007"><img src="https://img.shields.io/badge/-@yash07007-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ysolanki@usc.edu"><img src="https://img.shields.io/badge/-ysolanki@usc.edu-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/yash07007"><img src="https://img.shields.io/badge/-@yash07007-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/yash07007/"><img src="https://img.shields.io/badge/-@yash07007-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+<a href="https://instagram.com/yash07007"><img src="https://img.shields.io/badge/-@yash07007-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/yash07007"><img src="https://img.shields.io/badge/-@yash07007-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
