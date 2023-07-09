@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Yash Solanki</h1>
-<h3 align="center">A passionate Computer Science graduate student at University of Southern California</h3>
+<h3 align="center">A passionate Software Engineer at Hughes Networks & Computer Science graduate from University of Southern California</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yash07007&color=blueviolet&style=flat">
@@ -7,7 +7,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
-🎓 &nbsp;I'm currently studying Computer Science (Computer Networks) at the University of Southern California.
+🎓 &nbsp;I graduated with Masters in Computer Science (Computer Networks) from the University of Southern California.
 
 🌱 &nbsp;I'm on track for learning more about **Algorithms, Networks, Development, etc.**
 
@@ -15,7 +15,7 @@
 
 👨‍💻 &nbsp;All of my projects are available at [github](https://github.com/yash07007?tab=repositories)
 
-✉️ &nbsp;You can shoot me an email at ysolanki@usc.edu! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at yashsolanki777@gmail.com ! I'll try to respond as soon as I can.
 
 📄 &nbsp;Please have a look at my [Résumé](/docs/Yash_USC_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
